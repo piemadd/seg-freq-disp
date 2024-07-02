@@ -12,7 +12,7 @@ const map = new maplibregl.Map({
   style: {
     zoom: 9,
     pitch: 0,
-    center: [41.8973, -87.6739],
+    center: [-87.6739, 41.8973],
     glyphs:
       "https://fonts.transitstat.us/_output/{fontstack}/{range}.pbf",
     sprite: "https://osml.transitstat.us/sprites/osm-liberty",
